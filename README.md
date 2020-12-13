@@ -24,6 +24,7 @@ In your terminal, run the following command
 ```bash
 yarn exec degit clouw/template-snowpack-react-tailwind snowpack-app
 cd snowpack-app
+yarn install
 ```
 
 ## Available Scripts
