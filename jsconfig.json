@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": "./",
+    "paths": {
+      "@test/*": ["src/__test__/*"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}
